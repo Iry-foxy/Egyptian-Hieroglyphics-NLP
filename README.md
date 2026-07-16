@@ -34,6 +34,12 @@ dataset_final.txt
 
 ## Project Versions
 
+<h2 align="center">Validation Accuracy Comparison</h2>
+
+<p align="center">
+  <img src="graphlstm.png" alt="Validation Accuracy Comparison Across Different Challenges" width="850">
+</p>
+
 ### Version 1
 
 Initial LSTM language model.
